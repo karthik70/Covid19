@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>PA Covid 19 Data Collection - Total Confirmed Cases 50K</display>
+        <indicator display_value="Total Confirmed Cases 50K">79fffafd07f49010dba7f26d7c1ed0cd</indicator>
+        <job display_value="PA Covid 19 Data Collection">595ceebd07749010dba7f26d7c1ed055</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 14:27:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67a0433107389010dba7f26d7c1ed0d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Total Confirmed Cases 50K.PA Covid 19 Data Collection</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_job_indicators_67a0433107389010dba7f26d7c1ed0d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:27:54</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</application>
+        <file_path/>
+        <instance_id>d3c11a53dbb24890b847ac44d4961995</instance_id>
+        <instance_name>dev100384</instance_name>
+        <name>pa_job_indicators_67a0433107389010dba7f26d7c1ed0d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>PA Covid 19 Data Collection - Total Confirmed Cases 50K</display><indicator display_value="Total Confirmed Cases 50K">79fffafd07f49010dba7f26d7c1ed0cd</indicator><job display_value="PA Covid 19 Data Collection">595ceebd07749010dba7f26d7c1ed055</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-16 14:27:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>67a0433107389010dba7f26d7c1ed0d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Total Confirmed Cases 50K.PA Covid 19 Data Collection</sys_name><sys_overrides/><sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package><sys_policy/><sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope><sys_update_name>pa_job_indicators_67a0433107389010dba7f26d7c1ed0d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-16 14:27:54</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-2134694848</payload_hash>
+        <record_name>PA Covid 19 Data Collection - Total Confirmed Cases 50K</record_name>
+        <reverted_from/>
+        <source>afa71c50073c5010dba7f26d7c1ed0a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 14:27:54</sys_created_on>
+        <sys_id>27a0433107389010dba7f26d7c1ed0d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1721de2609d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:27:54</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>6fa0433198389010796641f336d4aad6</update_guid>
+        <update_guid_history>6fa0433198389010796641f336d4aad6:-2134694848</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PA Covid 19 Data Collection - Total Confirmed Cases 50K">3d2483b907389010dba7f26d7c1ed084</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 14:43:05</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>053ff9e51b434fa08f572c902190fd24</sys_id>
+        <sys_metadata>67a0433107389010dba7f26d7c1ed0d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Total Confirmed Cases 50K.PA Covid 19 Data Collection</sys_name>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_parent display_value="PA Covid 19 Data Collection">595ceebd07749010dba7f26d7c1ed055</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_scope_delete display_value="">9c4918b7817f408094ebc25ed90cb900</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_67a0433107389010dba7f26d7c1ed0d2</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_67a0433107389010dba7f26d7c1ed0d2">27a0433107389010dba7f26d7c1ed0d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:43:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

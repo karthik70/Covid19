@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>3</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>PA Covid-19 Data Collection Global - Total Death Cases</display>
+        <indicator display_value="Total Death Cases">1b137af107b49010dba7f26d7c1ed0f7</indicator>
+        <job display_value="PA Covid-19 Data Collection Global">5664290207fc9010dba7f26d7c1ed0ec</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 02:24:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8fc4614207fc9010dba7f26d7c1ed040</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Total Death Cases.PA Covid-19 Data Collection Global</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_job_indicators_8fc4614207fc9010dba7f26d7c1ed040</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:25:56</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

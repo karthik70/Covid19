@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_filters">
+    <pa_filters action="INSERT_OR_UPDATE">
+        <dimension display_value="Country Breakdown Source">003a2a7d07749010dba7f26d7c1ed064</dimension>
+        <filter table="core_country">123TEXTQUERY321-- oper ---- value --^EQ<item endquery="false" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <roles/>
+        <sys_class_name>pa_filters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 02:16:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a39225ce07bc9010dba7f26d7c1ed088</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Country</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_filters_a39225ce07bc9010dba7f26d7c1ed088</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:16:48</sys_updated_on>
+        <title>Country</title>
+    </pa_filters>
+</record_update>

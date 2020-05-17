@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_scripts">
+    <pa_scripts action="INSERT_OR_UPDATE">
+        <arguments>total_confirmed,total_deaths,total_recovered</arguments>
+        <description/>
+        <name>Covid-19 Active Cases Scripts</name>
+        <script><![CDATA[var active = function(x,y,z){return (x-y-z);};
+active(current.total_confirmed,current.total_recovered,current.total_deaths);]]></script>
+        <sys_class_name>pa_scripts</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 13:31:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f83767507b49010dba7f26d7c1ed0a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Covid-19 Active Cases Scripts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_scripts_2f83767507b49010dba7f26d7c1ed0a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:02:07</sys_updated_on>
+        <table>x_491120_covid_19_covid_19_cases</table>
+    </pa_scripts>
+    <sys_translated_text action="delete_multiple" query="documentkey=2f83767507b49010dba7f26d7c1ed0a5"/>
+</record_update>

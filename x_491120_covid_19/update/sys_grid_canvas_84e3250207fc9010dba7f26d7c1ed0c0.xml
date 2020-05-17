@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Covid-19  Situation Report">00e3250207fc9010dba7f26d7c1ed0bf</legacy_page>
+        <name>PA Covid-19 - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 02:20:55</sys_created_on>
+        <sys_id>84e3250207fc9010dba7f26d7c1ed0c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Covid-19 - New Tab</sys_name>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>sys_grid_canvas_84e3250207fc9010dba7f26d7c1ed0c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:20:55</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widget_indicators">
+    <pa_widget_indicators action="INSERT_OR_UPDATE">
+        <aggregate/>
+        <breakdown/>
+        <breakdown_level2/>
+        <chart_type>line</chart_type>
+        <color display_value="GoldenRod">65b3029aa9fe3dba017ebb6c34ba3c8e</color>
+        <element/>
+        <element_level2/>
+        <elements_filter/>
+        <follow_element>false</follow_element>
+        <follow_managed_element>false</follow_managed_element>
+        <followed_breakdown/>
+        <indicator display_value="Total Recovered Cases">47e2be3507b49010dba7f26d7c1ed003</indicator>
+        <label>Recovered Cases</label>
+        <order>300</order>
+        <second_y_axis>false</second_y_axis>
+        <sys_class_name>pa_widget_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 02:41:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93382dc207fc9010dba7f26d7c1ed0e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recovered Cases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_widget_indicators_93382dc207fc9010dba7f26d7c1ed0e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:41:17</sys_updated_on>
+        <widget display_value="Total Confirmed Cases">e58761c207fc9010dba7f26d7c1ed07f</widget>
+        <widget_indicator/>
+    </pa_widget_indicators>
+</record_update>

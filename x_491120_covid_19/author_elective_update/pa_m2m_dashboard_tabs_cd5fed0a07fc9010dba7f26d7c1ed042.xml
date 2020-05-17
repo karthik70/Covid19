@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Covid-19">fac3650207fc9010dba7f26d7c1ed03c</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>3</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 03:10:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd5fed0a07fc9010dba7f26d7c1ed042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fac3650207fc9010dba7f26d7c1ed03c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_cd5fed0a07fc9010dba7f26d7c1ed042</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 03:10:57</sys_updated_on>
+        <tab display_value="Covid-19 - New Tab 3">c15fed0a07fc9010dba7f26d7c1ed041</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</application>
+        <file_path/>
+        <instance_id>d3c11a53dbb24890b847ac44d4961995</instance_id>
+        <instance_name>dev100384</instance_name>
+        <name>pa_m2m_dashboard_tabs_cd5fed0a07fc9010dba7f26d7c1ed042</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Covid-19">fac3650207fc9010dba7f26d7c1ed03c</dashboard><home>false</home><homepage/><order>3</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-17 03:10:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd5fed0a07fc9010dba7f26d7c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_name>fac3650207fc9010dba7f26d7c1ed03c</sys_name><sys_overrides/><sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package><sys_policy/><sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_cd5fed0a07fc9010dba7f26d7c1ed042</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-17 03:10:57</sys_updated_on><tab display_value="Covid-19 - New Tab 3">c15fed0a07fc9010dba7f26d7c1ed041</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>579513587</payload_hash>
+        <record_name>fac3650207fc9010dba7f26d7c1ed03c</record_name>
+        <reverted_from/>
+        <source>afa71c50073c5010dba7f26d7c1ed0a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 03:10:57</sys_created_on>
+        <sys_id>455fed0a07fc9010dba7f26d7c1ed044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172209cf8030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 03:10:57</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>8d5fed0a56fc9010528f457cc65a3943</update_guid>
+        <update_guid_history>8d5fed0a56fc9010528f457cc65a3943:579513587</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Covid-19">9a5fed0a07fc9010dba7f26d7c1ed0a3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 03:11:02</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>4e304b07b65640f6a40a9346f5148239</sys_id>
+        <sys_metadata>cd5fed0a07fc9010dba7f26d7c1ed042</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fac3650207fc9010dba7f26d7c1ed03c</sys_name>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_parent display_value="Covid-19">fac3650207fc9010dba7f26d7c1ed03c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_scope_delete display_value="">9c4918b7817f408094ebc25ed90cb900</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_cd5fed0a07fc9010dba7f26d7c1ed042</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_cd5fed0a07fc9010dba7f26d7c1ed042">455fed0a07fc9010dba7f26d7c1ed044</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 03:11:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Historical Data Import" max_length="40" name="x_491120_covid_19_historical_data_staging_table" sizeclass="25690" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Total Confirmed" label="Total Confirmed" max_length="40" name="u_total_confirmed" type="integer"/>
+        <element attributes="import_attribute_name=Total Deaths" label="Total Deaths" max_length="40" name="u_total_deaths" type="integer"/>
+        <element attributes="import_attribute_name=Total Recovered" label="Total Recovered" max_length="40" name="u_total_recovered" type="integer"/>
+    </element>
+</database>

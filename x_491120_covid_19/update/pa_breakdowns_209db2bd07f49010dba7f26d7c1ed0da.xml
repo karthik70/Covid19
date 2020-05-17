@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdowns">
+    <pa_breakdowns action="INSERT_OR_UPDATE">
+        <data_source/>
+        <default_filter/>
+        <description/>
+        <dimension display_value="More Than 50k Cases Breakdown Source">80bd76bd07f49010dba7f26d7c1ed07c</dimension>
+        <display>true</display>
+        <facts_table/>
+        <field/>
+        <groups/>
+        <id>34</id>
+        <name>Country More Than 50K Cases</name>
+        <role_override>true</role_override>
+        <roles/>
+        <script/>
+        <scripted>false</scripted>
+        <sql_statement/>
+        <sys_class_name>pa_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 14:17:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>209db2bd07f49010dba7f26d7c1ed0da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Country More Than 50K Cases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_breakdowns_209db2bd07f49010dba7f26d7c1ed0da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-16 14:17:20</sys_updated_on>
+        <type>1</type>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_breakdowns>
+    <sys_translated_text action="delete_multiple" query="documentkey=209db2bd07f49010dba7f26d7c1ed0da"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources">
+    <pa_m2m_dashboard_sources action="INSERT_OR_UPDATE">
+        <breakdown_source display_value="Country Breakdown Source">003a2a7d07749010dba7f26d7c1ed064</breakdown_source>
+        <dashboard display_value="Covid-19">fac3650207fc9010dba7f26d7c1ed03c</dashboard>
+        <order>100</order>
+        <publisher/>
+        <sys_class_name>pa_m2m_dashboard_sources</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 03:09:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>530f650a07fc9010dba7f26d7c1ed09f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Covid-19.Country Breakdown Source</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_sources_530f650a07fc9010dba7f26d7c1ed09f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 03:09:44</sys_updated_on>
+    </pa_m2m_dashboard_sources>
+</record_update>

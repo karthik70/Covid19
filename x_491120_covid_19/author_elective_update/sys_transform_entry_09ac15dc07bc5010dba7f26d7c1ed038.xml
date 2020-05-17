@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="Daily Summary Data Import Transform Map">0a7c95dc07bc5010dba7f26d7c1ed02d</map>
+        <reference_value_field/>
+        <source_field>u_total_confirmed</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_491120_covid_19_daily_summary_data_import_staging_table</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 15:19:56</sys_created_on>
+        <sys_id>09ac15dc07bc5010dba7f26d7c1ed038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_total_confirmed</sys_name>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>sys_transform_entry_09ac15dc07bc5010dba7f26d7c1ed038</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 15:19:56</sys_updated_on>
+        <target_field>total_confirmed</target_field>
+        <target_table>x_491120_covid_19_covid_19_cases</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</application>
+        <file_path/>
+        <instance_id>d3c11a53dbb24890b847ac44d4961995</instance_id>
+        <instance_name>dev100384</instance_name>
+        <name>sys_transform_entry_09ac15dc07bc5010dba7f26d7c1ed038</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Daily Summary Data Import Transform Map"&gt;0a7c95dc07bc5010dba7f26d7c1ed02d&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_total_confirmed&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_491120_covid_19_daily_summary_data_import_staging_table&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-11 15:19:56&lt;/sys_created_on&gt;&lt;sys_id&gt;09ac15dc07bc5010dba7f26d7c1ed038&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_total_confirmed&lt;/sys_name&gt;&lt;sys_package display_value="Covid 19" source="x_491120_covid_19"&gt;2fa71c50073c5010dba7f26d7c1ed0a0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Covid 19"&gt;2fa71c50073c5010dba7f26d7c1ed0a0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_09ac15dc07bc5010dba7f26d7c1ed038&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-11 15:19:56&lt;/sys_updated_on&gt;&lt;target_field&gt;total_confirmed&lt;/target_field&gt;&lt;target_table&gt;x_491120_covid_19_covid_19_cases&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1722941401</payload_hash>
+        <record_name>u_total_confirmed</record_name>
+        <reverted_from/>
+        <source>afa71c50073c5010dba7f26d7c1ed0a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 15:19:56</sys_created_on>
+        <sys_id>8dac15dc07bc5010dba7f26d7c1ed039</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172045239320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 15:19:56</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>c5ac15dc2abc5010e5e5692305311939</update_guid>
+        <update_guid_history>c5ac15dc2abc5010e5e5692305311939:-1722941401</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 15:42:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>3f6af093a9964f7c9c985eb71edcf544</sys_id>
+        <sys_metadata>09ac15dc07bc5010dba7f26d7c1ed038</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_total_confirmed</sys_name>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_scope_delete display_value="">9c4918b7817f408094ebc25ed90cb900</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_09ac15dc07bc5010dba7f26d7c1ed038</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_09ac15dc07bc5010dba7f26d7c1ed038">8dac15dc07bc5010dba7f26d7c1ed039</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 15:42:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

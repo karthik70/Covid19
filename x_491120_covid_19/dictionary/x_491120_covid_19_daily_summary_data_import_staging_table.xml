@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Daily Summary Data Import" max_length="40" name="x_491120_covid_19_daily_summary_data_import_staging_table" sizeclass="2241" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_date" label="Date" max_length="40" name="u_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_total_confirmed" label="Total confirmed" max_length="40" name="u_total_confirmed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_total_deaths" label="Total deaths" max_length="40" name="u_total_deaths" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_total_recovered" label="Total recovered" max_length="40" name="u_total_recovered" type="string"/>
+    </element>
+</database>

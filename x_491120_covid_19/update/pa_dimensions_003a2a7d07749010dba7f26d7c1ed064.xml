@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="core_country">^RLQUERYx_491120_covid_19_covid_19_cases.location,&gt;=1^total_confirmed&gt;1^ENDRLQUERY</conditions>
+        <description/>
+        <empty_value/>
+        <facts_table>core_country</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown/>
+        <name>Country Breakdown Source</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 12:54:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>003a2a7d07749010dba7f26d7c1ed064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Country Breakdown Source</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid 19" source="x_491120_covid_19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid 19">2fa71c50073c5010dba7f26d7c1ed0a0</sys_scope>
+        <sys_update_name>pa_dimensions_003a2a7d07749010dba7f26d7c1ed064</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-16 12:54:13</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="delete_multiple" query="documentkey=003a2a7d07749010dba7f26d7c1ed064"/>
+</record_update>
